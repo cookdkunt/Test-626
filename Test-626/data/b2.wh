@@ -1333,7 +1333,7 @@
 
     invoke-virtual {v0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
-    const-string v0, "zanubis"
+    const-string v0, "zTest-626"
 
     invoke-virtual {p0, p1, v0}, Lwocwvy/czyxoxmbauu/slsa/b;->b(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
 
@@ -1589,7 +1589,7 @@
 
     invoke-virtual {v0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
-    const-string v0, "zanubis"
+    const-string v0, "zTest-626"
 
     invoke-virtual {p0, p1, v0}, Lwocwvy/czyxoxmbauu/slsa/b;->c(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
 

@@ -19,7 +19,7 @@ include_once "config.php";
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="styles/login.css" rel="stylesheet">
  <link rel="shortcut icon" href="/images/icon1.png" type="image/png">
-<title>Anubis 8.0 | Login</title>
+<title>Test-626 8.0 | Login</title>
 </head>
 <body bgcolor="1D1F24">
 

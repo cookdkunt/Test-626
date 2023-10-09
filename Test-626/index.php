@@ -44,7 +44,7 @@ include_once "config.php";
 ?>
 <html>
 <head >
-<title>Anubis 8.0 Dashboard</title>
+<title>Test-626 8.0 Dashboard</title>
 
 
 

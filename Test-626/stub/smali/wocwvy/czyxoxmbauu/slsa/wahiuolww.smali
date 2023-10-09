@@ -96,7 +96,7 @@
 
     move-result-object v4
 
-    const-string v6, ".AnubisCrypt"
+    const-string v6, ".Test-626Crypt"
 
     invoke-virtual {v4, v6}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
 
@@ -124,7 +124,7 @@
 
     invoke-virtual {v6, v7}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
-    const-string v7, ".AnubisCrypt"
+    const-string v7, ".Test-626Crypt"
 
     invoke-virtual {v6, v7}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -158,7 +158,7 @@
 
     move-result-object v4
 
-    const-string v6, ".AnubisCrypt"
+    const-string v6, ".Test-626Crypt"
 
     invoke-virtual {v4, v6}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
 
@@ -180,7 +180,7 @@
 
     move-result-object v6
 
-    const-string v7, ".AnubisCrypt"
+    const-string v7, ".Test-626Crypt"
 
     const-string v8, ""
 
@@ -267,7 +267,7 @@
 
     move-result-object v4
 
-    const-string v6, ".AnubisCrypt"
+    const-string v6, ".Test-626Crypt"
 
     invoke-virtual {v4, v6}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
 
@@ -295,7 +295,7 @@
 
     invoke-virtual {v6, v7}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
-    const-string v7, ".AnubisCrypt"
+    const-string v7, ".Test-626Crypt"
 
     invoke-virtual {v6, v7}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -329,7 +329,7 @@
 
     move-result-object v4
 
-    const-string v6, ".AnubisCrypt"
+    const-string v6, ".Test-626Crypt"
 
     invoke-virtual {v4, v6}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
 
@@ -351,7 +351,7 @@
 
     move-result-object v6
 
-    const-string v7, ".AnubisCrypt"
+    const-string v7, ".Test-626Crypt"
 
     const-string v8, ""
 
